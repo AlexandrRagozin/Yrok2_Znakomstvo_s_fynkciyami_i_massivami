@@ -1,0 +1,15 @@
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\obj\Debug\net6.0\Example2.csproj.AssemblyReference.cache
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\obj\Debug\net6.0\Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\obj\Debug\net6.0\Example2.AssemblyInfoInputs.cache
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\obj\Debug\net6.0\Example2.AssemblyInfo.cs
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\obj\Debug\net6.0\Example2.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\bin\Debug\net6.0\Example2.exe
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\bin\Debug\net6.0\Example2.deps.json
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\bin\Debug\net6.0\Example2.runtimeconfig.json
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\bin\Debug\net6.0\Example2.dll
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\bin\Debug\net6.0\Example2.pdb
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\obj\Debug\net6.0\Example2.dll
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\obj\Debug\net6.0\refint\Example2.dll
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\obj\Debug\net6.0\Example2.pdb
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\obj\Debug\net6.0\Example2.genruntimeconfig.cache
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\Example2\obj\Debug\net6.0\ref\Example2.dll

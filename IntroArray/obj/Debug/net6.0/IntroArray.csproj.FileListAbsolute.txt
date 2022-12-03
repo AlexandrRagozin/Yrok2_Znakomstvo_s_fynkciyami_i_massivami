@@ -1,0 +1,15 @@
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\obj\Debug\net6.0\IntroArray.csproj.AssemblyReference.cache
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\obj\Debug\net6.0\IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\obj\Debug\net6.0\IntroArray.AssemblyInfoInputs.cache
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\obj\Debug\net6.0\IntroArray.AssemblyInfo.cs
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\obj\Debug\net6.0\IntroArray.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\bin\Debug\net6.0\IntroArray.exe
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\bin\Debug\net6.0\IntroArray.deps.json
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\bin\Debug\net6.0\IntroArray.runtimeconfig.json
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\bin\Debug\net6.0\IntroArray.dll
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\bin\Debug\net6.0\IntroArray.pdb
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\obj\Debug\net6.0\IntroArray.dll
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\obj\Debug\net6.0\refint\IntroArray.dll
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\obj\Debug\net6.0\IntroArray.pdb
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\obj\Debug\net6.0\IntroArray.genruntimeconfig.cache
+C:\GeekBrains\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\IntroArray\obj\Debug\net6.0\ref\IntroArray.dll
