@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GeekBrains\\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\\Example2\\Example2.csproj": {}
+    "D:\\GeekBrains\\Yrok_2_Znakomstvo_s_funkciyami_i_massivami.Lekciya\\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\\Example2\\Example2.csproj": {}
   },
   "projects": {
-    "C:\\GeekBrains\\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\\Example2\\Example2.csproj": {
+    "D:\\GeekBrains\\Yrok_2_Znakomstvo_s_funkciyami_i_massivami.Lekciya\\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\\Example2\\Example2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GeekBrains\\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\\Example2\\Example2.csproj",
+        "projectUniqueName": "D:\\GeekBrains\\Yrok_2_Znakomstvo_s_funkciyami_i_massivami.Lekciya\\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\\Example2\\Example2.csproj",
         "projectName": "Example2",
-        "projectPath": "C:\\GeekBrains\\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\\Example2\\Example2.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\GeekBrains\\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\\Example2\\obj\\",
+        "projectPath": "D:\\GeekBrains\\Yrok_2_Znakomstvo_s_funkciyami_i_massivami.Lekciya\\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\\Example2\\Example2.csproj",
+        "packagesPath": "C:\\Users\\iSO\\.nuget\\packages\\",
+        "outputPath": "D:\\GeekBrains\\Yrok_2_Znakomstvo_s_funkciyami_i_massivami.Lekciya\\Yrok2_Znakomstvo_s_fynkciyami_i_massivami\\Example2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\iSO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
